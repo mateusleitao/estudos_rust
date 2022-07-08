@@ -1,0 +1,1 @@
+C:\Users\mateu\Documents\estudos\rust\control_flow\target\debug\control_flow.exe: C:\Users\mateu\Documents\estudos\rust\control_flow\src\greet.rs C:\Users\mateu\Documents\estudos\rust\control_flow\src\main.rs
